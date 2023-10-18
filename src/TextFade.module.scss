@@ -1,0 +1,17 @@
+.TextFade{
+  &__text{
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+  }
+
+  &__word{
+    display: inline-block;
+    overflow: hidden;
+  }
+
+  &__character{
+    display: inline-block;
+    margin-right: 0.2em
+  }
+}

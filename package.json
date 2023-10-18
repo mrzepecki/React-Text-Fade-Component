@@ -1,0 +1,17 @@
+{
+  "name": "react-text-fade-component",
+  "version": "1.0.0",
+  "description": "A text fading component for React.",
+  "main": "src/TextFade.js",
+  "keywords": [
+    "react",
+    "animation",
+    "text-fade"
+  ],
+  "author": "Michał Rzepecki",
+  "license": "MIT",
+  "dependencies": {
+    "framer-motion": "^4.0.0",
+    "react": "^17.0.0"
+  }
+}
